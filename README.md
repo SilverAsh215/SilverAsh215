@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @SilverAsh215
-- 👀 I’m interested in arknight
-- 🌱 I’m currently learning unity
-- 💞️ I’m looking to collaborate on silverAsh
-- 📫 What to reach me? come to china
+- 📫 What to reach me? come to gdut
 
 <!---
 SilverAsh215/SilverAsh215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
