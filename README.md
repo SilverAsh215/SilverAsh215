@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SilverAsh215
-- 📫 What to reach me? come to gdut
+- 📫 What to reach me?
 
 <!---
 SilverAsh215/SilverAsh215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
